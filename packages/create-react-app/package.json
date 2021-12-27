@@ -1,10 +1,10 @@
 {
-  "name": "create-react-app",
+  "name": "create-recat-app",
   "version": "5.0.0",
   "keywords": [
     "react"
   ],
-  "description": "Create React apps with no build configuration.",
+  "description": "Create React apps with no build configuration and cats!",
   "repository": {
     "type": "git",
     "url": "https://github.com/facebook/create-react-app.git",
