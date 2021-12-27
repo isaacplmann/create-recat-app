@@ -602,7 +602,7 @@ function getInstallPackage(version, originalDirectory) {
 }
 
 function getTemplateInstallPackage(template, originalDirectory) {
-  let templateToInstall = 'cra-template';
+  let templateToInstall = 'cra-template-cats';
   if (template) {
     if (template.match(/^file:/)) {
       templateToInstall = `file:${path.resolve(
